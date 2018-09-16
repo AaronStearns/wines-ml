@@ -1,0 +1,50 @@
+[
+    {
+        "wine": "1",
+        "alcohol": 14.23,
+        "malicAcid": 1.71,
+        "ash": 2.43,
+        "alcalinityOfAsh": 15.6,
+        "magnesium": 127,
+        "totalPhenols": 2.8,
+        "flavinoids": 3.06,
+        "nonflavinodPhenols": 0.28,
+        "proanthocyanins": 2.29,
+        "colorIntensity": 5.64,
+        "hue": 1.04,
+        "OD280OD315OfDilutedWines": 3.92,
+        "proline": 1065
+    },
+    {
+        "wine": "2",
+        "alcohol": 12.17,
+        "malicAcid": 1.45,
+        "ash": 2.53,
+        "alcalinityOfAsh": 19,
+        "magnesium": 104,
+        "totalPhenols": 1.89,
+        "flavinoids": 1.75,
+        "nonflavinodPhenols": 0.45,
+        "proanthocyanins": 1.03,
+        "colorIntensity": 2.95,
+        "hue": 1.45,
+        "OD280OD315OfDilutedWines": 2.23,
+        "proline": 355
+    },
+    {
+        "wine": "3",
+        "alcohol": 12.25,
+        "malicAcid": 4.72,
+        "ash": 2.54,
+        "alcalinityOfAsh": 21,
+        "magnesium": 89,
+        "totalPhenols": 1.38,
+        "flavinoids": 0.47,
+        "nonflavinodPhenols": 0.53,
+        "proanthocyanins": 0.8,
+        "colorIntensity": 3.85,
+        "hue": 0.75,
+        "OD280OD315OfDilutedWines": 1.27,
+        "proline": 720
+    }
+]
