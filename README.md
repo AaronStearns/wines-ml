@@ -1,4 +1,4 @@
-# wines-tensorflow
+# wines-ml
 
 This project brings the predictive classification power of kNN into a Node.js/React environment to predict wine origin based on 13 indepentednt variables such as wine color, hue, alcohol content, phenols, etc.
 
