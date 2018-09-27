@@ -1,6 +1,6 @@
 # wines-ml
 
-This project brings the predictive classification power of kNN into a Node.js/React environment to predict wine origin based on 13 indepentednt variables such as wine color, hue, alcohol content, phenols, etc.
+This project brings the predictive classification power of kNN into a Node.js environment to predict wine origin based on 13 indepentednt variables such as wine color, alcohol content, phenols, etc.
 
 The data is available in .csv format on the UCI Machine Learning Repository at this link: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/
 
